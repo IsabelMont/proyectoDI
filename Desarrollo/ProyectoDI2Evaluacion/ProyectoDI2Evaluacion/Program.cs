@@ -10,6 +10,7 @@ namespace ProyectoDI2Evaluacion
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hola");
         }
     }
 }
